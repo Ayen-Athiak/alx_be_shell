@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Effective username of the current user: $Athiak"
+whoami
